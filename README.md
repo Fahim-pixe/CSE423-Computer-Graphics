@@ -1,1 +1,1 @@
-# CSE423-Computer-Graphics
+# CSE423-AI
